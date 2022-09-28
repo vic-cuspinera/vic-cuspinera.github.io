@@ -1,3 +1,9 @@
 theme: jekyll-theme-minimal
 title: Victor Cuspinera homepage
 description: This is my alternative webpage for practice some exercises!
+
+# Reading Files
+include:
+  - .htaccess
+  - _pages
+  - files
