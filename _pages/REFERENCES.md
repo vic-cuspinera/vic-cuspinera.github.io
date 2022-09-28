@@ -1,6 +1,8 @@
+---
 layout: page
 title: "References"
 permalink: https://vic-cuspinera.github.io/references
+---
 
 Here you Will find the links to the main references to create your personal webpage in GitHub:
 
