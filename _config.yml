@@ -4,6 +4,4 @@ description: This is my alternative webpage for practice some exercises!
 
 # Reading Files
 include:
-  - .htaccess
   - _pages
-  - files
